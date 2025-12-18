@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="imagetarget_coffe" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_milkshake" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_cola" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_icecream" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_salad" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_pizza" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_onionrings" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_hotdog" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_friedchicken" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_frenchfries" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_chickennuggets" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_beeftaco" size="10.000000 12.500000" />
+    <ImageTarget name="imagetarget_burger" size="10.000000 12.500000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,51 @@
+# Blender MTL File: 'dinary_set.blend'
+# Material Count: 4
+
+newmtl Glass
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl choko_coctail
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Choko_Coctail.Normal.png
+map_Kd Choko_Coctail_Base.png
+map_Ns Choko_Coctail.Roughness.png
+
+newmtl shake
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump milk_shake.normal.png
+map_Kd milkshake.base.png
+map_Ns milk_shake.roughness.png
+
+newmtl strawberyshake
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump H:\\dineryset\\Srawbery_Coctail.Normal.png
+map_Kd Strawbery_Coctail.Base.png
+map_Ns H:\\dineryset\\strawberry_coctail.roughness.png

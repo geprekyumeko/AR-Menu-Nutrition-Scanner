@@ -1,0 +1,4 @@
+repository "AR Menu Nutrition Scanner 2025-12-14_00-58-05/AR Menu Nutrition Scanner@18968256206928@cloud"
+  path "/"
+    br "/main"
+    co "/main"
